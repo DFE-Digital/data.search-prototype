@@ -7,4 +7,8 @@
     <RootNamespace>data.search_prototype.web</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="GovUk.Frontend.AspNetCore" Version="2.1.0-rc" />
+  </ItemGroup>
+
 </Project>
